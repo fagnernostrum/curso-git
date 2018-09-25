@@ -30,3 +30,5 @@ $ git merge master
 Mudando  de Branch
 
 $ git checkout developer
+
+Criando tarefa DESENV-02
