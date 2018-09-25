@@ -24,3 +24,6 @@ Criando Branch
 
 $ git branch developer
 
+Mudando  de Branch
+
+$ git checkout developer
