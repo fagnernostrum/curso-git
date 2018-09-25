@@ -30,3 +30,7 @@ $ git merge master
 Mudando  de Branch
 
 $ git checkout developer
+
+Criando Branch git flow
+
+$ git checkou -b feature_branch
