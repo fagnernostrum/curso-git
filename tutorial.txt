@@ -24,6 +24,9 @@ Criando Branch
 
 $ git branch developer
 
+Realizando merge
+
+$ git merge master
 Mudando  de Branch
 
 $ git checkout developer
