@@ -7,3 +7,7 @@ $ git init
 Adicionando arquivo no indice
 
 $ git add arquivo.txt
+
+Commit
+
+$ git commit -m 'mensagem'
